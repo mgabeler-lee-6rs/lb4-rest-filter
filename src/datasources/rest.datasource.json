@@ -1,0 +1,6 @@
+{
+  "name": "rest",
+  "connector": "rest",
+  "baseURL": "http://localhost:3000",
+  "crud": true
+}
